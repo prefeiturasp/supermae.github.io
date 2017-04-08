@@ -1,0 +1,15 @@
+title: Super Mãe
+email: contato@supermae.com.br
+description:
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Build settings
+sass:
+  sass_dir: src/_scss
+  style: compressed
+
+markdown: kramdown
+exclude:
+  - Gemfile
+  - Gemfile.lock

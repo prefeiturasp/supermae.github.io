@@ -1,0 +1,26 @@
+{
+  "name": "supermae.github.io",
+  "homepage": "https://github.com/supermae/supermae.github.io",
+  "authors": [
+    "Igor Luíz <igor@devstacks.com.br>"
+  ],
+  "description": "Projeto para ajudar gestantes",
+  "main": "index.html",
+  "keywords": [
+    "mãe",
+    "mulher",
+    "gestantes"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "fullpage.js": "^2.9.4"
+  }
+}
